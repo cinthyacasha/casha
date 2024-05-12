@@ -1,6 +1,6 @@
 # 🌟 Welcome to Casha! 🌟
 
-We are a **Mexican agency** which is aimed at ###leading companies### to take the plunge into the dynamic digital world. We exist to create a virtual world for the businesses by means of **setting up their digital presence**.
+We are a **Mexican agency** which is aimed at **_leading companies_** to take the plunge into the dynamic digital world. We exist to create a virtual world for the businesses by means of **setting up their digital presence**.
 
 By **closely _looking_ at every _detail_** and bringing innovations to the mix we build **unique digital space** that helps brands to rise above themselves.
 
