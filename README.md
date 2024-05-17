@@ -9,3 +9,38 @@ At Casha, we are experts in the art of **conversion rate optimization** through 
 
 Come and join us on this amazing journey as **we explore the full potential of your business** in the digital world. 
 > ### Let's build a brighter future together! 💼💻🚀
+
+## This is my toolkit:
+
+### Design
+[Figma]
+[Miro]
+
+### UX Research
+[Optimal]
+[Maze]
+
+### Programming
+[HTML]
+[CSS]
+[Webflow]
+[Frame]
+[WordPress]
+
+### Management
+[Notion]
+[Trello]
+[Clickuup]
+
+### Communication
+[Slack]
+[Google Meet]
+[Zoom]
+
+### Digital Marketing
+[Google Analytics]
+[Meta]
+[Hotjar]
+[SEO]
+[SEM]
+[SMM]
